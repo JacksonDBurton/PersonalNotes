@@ -11,6 +11,8 @@ tags:
 ---
 
 MD Links: [[associate-course-bundle]], [[courses-breakdown]]
+
 Relevent Websites: [Certified Developer Course](https://learn.cantrill.io/courses/enrolled/1101194)
 
 ## Introduction & Scenario
+
