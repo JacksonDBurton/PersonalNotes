@@ -27,3 +27,6 @@ Relevent Websites: [Certified Developer Course](https://learn.cantrill.io/course
 ### [Finding and Using the Course](https://learn.cantrill.io/courses/1101194/lectures/24663362)
 - [Course Github Repo](https://github.com/acantril/aws-dev-associate)
 
+### [Site tools and features](https://learn.cantrill.io/courses/1101194/lectures/39441493)
+- There is an available slack learning community, though I am not intrested in it at the moment
+- [Labs Link](https://github.com/acantril/learn-cantrill-io-labs) repo that contains fully featured projects and a number of other demos
