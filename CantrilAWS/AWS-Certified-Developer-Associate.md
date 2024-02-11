@@ -1,8 +1,8 @@
 # AWS Certified Developer Associate Course
 
 ---
-title: "Aggregate notes on Cantril's AWS Certified Developer - Associate Course"
-date: 2024-02-11
+title: "Aggregate notes on Cantril's AWS Certified Developer - Associate Course"  
+date: 2024-02-11  
 tags:
 - Career
 - Course
