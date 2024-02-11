@@ -16,3 +16,6 @@ Links: [[courses-breakdown]]
 ## Course Checklist
 
 [] [[aws-certified-developer-associate-course]]
+
+## Non-Specific Course Resources
+- [Cantril's Github Profile](https://github.com/acantril)
