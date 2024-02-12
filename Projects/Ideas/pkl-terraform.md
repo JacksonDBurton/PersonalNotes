@@ -7,6 +7,12 @@ title: "Create a Terraform CDKTF Port for PKL"
 date: 2024-02-11  
 tags:
 
-TODO
+- Ideas
+- Pkl
+- CDKTF
+- Terraform
+- Project
+
 ---
+
 
